@@ -1,0 +1,2946 @@
+{
+  "skills": [
+    {
+      "id": "skill-javascript",
+      "slug": "javascript",
+      "name": "JavaScript",
+      "interview_focus": "closures, lexical scope, async/await, promises, event loop",
+      "active": true
+    },
+    {
+      "id": "skill-python",
+      "slug": "python",
+      "name": "Python",
+      "interview_focus": "variables and types, functions, OOP, decorators, generators",
+      "active": true
+    },
+    {
+      "id": "skill-data-structures",
+      "slug": "data-structures",
+      "name": "Data Structures",
+      "interview_focus": "arrays, linked lists, stacks, queues, hash maps",
+      "active": true
+    },
+    {
+      "id": "skill-algorithms",
+      "slug": "algorithms",
+      "name": "Algorithms",
+      "interview_focus": "sorting, searching, binary search, recursion, dynamic programming",
+      "active": true
+    },
+    {
+      "id": "skill-react-js",
+      "slug": "react-js",
+      "name": "React.js",
+      "interview_focus": "components, props, state, hooks, useEffect",
+      "active": true
+    },
+    {
+      "id": "skill-state-management",
+      "slug": "state-management",
+      "name": "State Management",
+      "interview_focus": "local state, global state, prop drilling, Context API, Redux",
+      "active": true
+    },
+    {
+      "id": "skill-sql",
+      "slug": "sql",
+      "name": "SQL",
+      "interview_focus": "SELECT queries, WHERE filters, GROUP BY, HAVING, INNER JOIN",
+      "active": true
+    },
+    {
+      "id": "skill-database-indexing",
+      "slug": "database-indexing",
+      "name": "Database Indexing",
+      "interview_focus": "single-column indexes, composite indexes, unique indexes, covering indexes, B-tree indexes",
+      "active": true
+    },
+    {
+      "id": "skill-backend-apis",
+      "slug": "backend-apis",
+      "name": "Backend APIs",
+      "interview_focus": "REST principles, HTTP methods, status codes, request validation, authentication",
+      "active": true
+    },
+    {
+      "id": "skill-system-design",
+      "slug": "system-design",
+      "name": "System Design",
+      "interview_focus": "requirements gathering, load estimation, database choice, caching, load balancing",
+      "active": true
+    },
+    {
+      "id": "skill-nodejs",
+      "slug": "nodejs",
+      "name": "Node.js",
+      "interview_focus": "event loop, non-blocking I/O, callbacks, promises, async/await",
+      "active": true
+    },
+    {
+      "id": "skill-oop",
+      "slug": "oop",
+      "name": "Object-Oriented Programming",
+      "interview_focus": "classes, objects, encapsulation, inheritance, polymorphism",
+      "active": true
+    },
+    {
+      "id": "skill-git-github",
+      "slug": "git-github",
+      "name": "Git & GitHub",
+      "interview_focus": "repositories, commits, branches, merge, rebase",
+      "active": true
+    },
+    {
+      "id": "skill-testing",
+      "slug": "testing",
+      "name": "Testing",
+      "interview_focus": "unit testing, integration testing, end-to-end testing, test cases, assertions",
+      "active": true
+    },
+    {
+      "id": "skill-debugging",
+      "slug": "debugging",
+      "name": "Debugging",
+      "interview_focus": "logs, breakpoints, stack traces, reproduction steps, root-cause analysis",
+      "active": true
+    },
+    {
+      "id": "skill-cloud-basics",
+      "slug": "cloud-basics",
+      "name": "Cloud Basics",
+      "interview_focus": "compute, storage, databases, networking, load balancers",
+      "active": true
+    },
+    {
+      "id": "skill-docker",
+      "slug": "docker",
+      "name": "Docker",
+      "interview_focus": "containers, images, Dockerfile, layers, volumes",
+      "active": true
+    },
+    {
+      "id": "skill-security-basics",
+      "slug": "security-basics",
+      "name": "Security Basics",
+      "interview_focus": "authentication, authorization, password hashing, JWT, sessions",
+      "active": true
+    },
+    {
+      "id": "skill-performance-optimization",
+      "slug": "performance-optimization",
+      "name": "Performance Optimization",
+      "interview_focus": "latency, throughput, caching, database queries, indexing",
+      "active": true
+    },
+    {
+      "id": "skill-collaboration",
+      "slug": "collaboration",
+      "name": "Collaboration",
+      "interview_focus": "communication, code reviews, task ownership, estimation, standups",
+      "active": true
+    }
+  ],
+  "topics": [
+    {
+      "id": "top-javascript-closures",
+      "skill_id": "skill-javascript",
+      "slug": "closures",
+      "name": "Closures",
+      "active": true
+    },
+    {
+      "id": "top-javascript-lexical-scope",
+      "skill_id": "skill-javascript",
+      "slug": "lexical-scope",
+      "name": "Lexical Scope",
+      "active": true
+    },
+    {
+      "id": "top-javascript-async-await",
+      "skill_id": "skill-javascript",
+      "slug": "async-await",
+      "name": "Async Await",
+      "active": true
+    },
+    {
+      "id": "top-javascript-promises",
+      "skill_id": "skill-javascript",
+      "slug": "promises",
+      "name": "Promises",
+      "active": true
+    },
+    {
+      "id": "top-javascript-event-loop",
+      "skill_id": "skill-javascript",
+      "slug": "event-loop",
+      "name": "Event Loop",
+      "active": true
+    },
+    {
+      "id": "top-javascript-hoisting",
+      "skill_id": "skill-javascript",
+      "slug": "hoisting",
+      "name": "Hoisting",
+      "active": true
+    },
+    {
+      "id": "top-javascript-this-binding",
+      "skill_id": "skill-javascript",
+      "slug": "this-binding",
+      "name": "This Binding",
+      "active": true
+    },
+    {
+      "id": "top-javascript-prototypes",
+      "skill_id": "skill-javascript",
+      "slug": "prototypes",
+      "name": "Prototypes",
+      "active": true
+    },
+    {
+      "id": "top-javascript-arrays",
+      "skill_id": "skill-javascript",
+      "slug": "arrays",
+      "name": "Arrays",
+      "active": true
+    },
+    {
+      "id": "top-javascript-objects",
+      "skill_id": "skill-javascript",
+      "slug": "objects",
+      "name": "Objects",
+      "active": true
+    },
+    {
+      "id": "top-javascript-error-handling",
+      "skill_id": "skill-javascript",
+      "slug": "error-handling",
+      "name": "Error Handling",
+      "active": true
+    },
+    {
+      "id": "top-javascript-modules",
+      "skill_id": "skill-javascript",
+      "slug": "modules",
+      "name": "Modules",
+      "active": true
+    },
+    {
+      "id": "top-javascript-dom-events",
+      "skill_id": "skill-javascript",
+      "slug": "dom-events",
+      "name": "DOM Events",
+      "active": true
+    },
+    {
+      "id": "top-javascript-fetch-api",
+      "skill_id": "skill-javascript",
+      "slug": "fetch-api",
+      "name": "Fetch API",
+      "active": true
+    },
+    {
+      "id": "top-javascript-debouncing",
+      "skill_id": "skill-javascript",
+      "slug": "debouncing",
+      "name": "Debouncing",
+      "active": true
+    },
+    {
+      "id": "top-javascript-throttling",
+      "skill_id": "skill-javascript",
+      "slug": "throttling",
+      "name": "Throttling",
+      "active": true
+    },
+    {
+      "id": "top-javascript-memory-leaks",
+      "skill_id": "skill-javascript",
+      "slug": "memory-leaks",
+      "name": "Memory Leaks",
+      "active": true
+    },
+    {
+      "id": "top-javascript-immutability",
+      "skill_id": "skill-javascript",
+      "slug": "immutability",
+      "name": "Immutability",
+      "active": true
+    },
+    {
+      "id": "top-javascript-testing",
+      "skill_id": "skill-javascript",
+      "slug": "testing",
+      "name": "Testing",
+      "active": true
+    },
+    {
+      "id": "top-javascript-performance",
+      "skill_id": "skill-javascript",
+      "slug": "performance",
+      "name": "Performance",
+      "active": true
+    },
+    {
+      "id": "top-python-variables-and-types",
+      "skill_id": "skill-python",
+      "slug": "variables-and-types",
+      "name": "Variables And Types",
+      "active": true
+    },
+    {
+      "id": "top-python-functions",
+      "skill_id": "skill-python",
+      "slug": "functions",
+      "name": "Functions",
+      "active": true
+    },
+    {
+      "id": "top-python-oop",
+      "skill_id": "skill-python",
+      "slug": "oop",
+      "name": "OOP",
+      "active": true
+    },
+    {
+      "id": "top-python-decorators",
+      "skill_id": "skill-python",
+      "slug": "decorators",
+      "name": "Decorators",
+      "active": true
+    },
+    {
+      "id": "top-python-generators",
+      "skill_id": "skill-python",
+      "slug": "generators",
+      "name": "Generators",
+      "active": true
+    },
+    {
+      "id": "top-python-exceptions",
+      "skill_id": "skill-python",
+      "slug": "exceptions",
+      "name": "Exceptions",
+      "active": true
+    },
+    {
+      "id": "top-python-list-comprehensions",
+      "skill_id": "skill-python",
+      "slug": "list-comprehensions",
+      "name": "List Comprehensions",
+      "active": true
+    },
+    {
+      "id": "top-python-dictionaries",
+      "skill_id": "skill-python",
+      "slug": "dictionaries",
+      "name": "Dictionaries",
+      "active": true
+    },
+    {
+      "id": "top-python-modules",
+      "skill_id": "skill-python",
+      "slug": "modules",
+      "name": "Modules",
+      "active": true
+    },
+    {
+      "id": "top-python-file-handling",
+      "skill_id": "skill-python",
+      "slug": "file-handling",
+      "name": "File Handling",
+      "active": true
+    },
+    {
+      "id": "top-python-virtual-environments",
+      "skill_id": "skill-python",
+      "slug": "virtual-environments",
+      "name": "Virtual Environments",
+      "active": true
+    },
+    {
+      "id": "top-python-type-hints",
+      "skill_id": "skill-python",
+      "slug": "type-hints",
+      "name": "Type Hints",
+      "active": true
+    },
+    {
+      "id": "top-python-iterators",
+      "skill_id": "skill-python",
+      "slug": "iterators",
+      "name": "Iterators",
+      "active": true
+    },
+    {
+      "id": "top-python-context-managers",
+      "skill_id": "skill-python",
+      "slug": "context-managers",
+      "name": "Context Managers",
+      "active": true
+    },
+    {
+      "id": "top-python-lambda-functions",
+      "skill_id": "skill-python",
+      "slug": "lambda-functions",
+      "name": "Lambda Functions",
+      "active": true
+    },
+    {
+      "id": "top-python-standard-library",
+      "skill_id": "skill-python",
+      "slug": "standard-library",
+      "name": "Standard Library",
+      "active": true
+    },
+    {
+      "id": "top-python-unit-testing",
+      "skill_id": "skill-python",
+      "slug": "unit-testing",
+      "name": "Unit Testing",
+      "active": true
+    },
+    {
+      "id": "top-python-data-parsing",
+      "skill_id": "skill-python",
+      "slug": "data-parsing",
+      "name": "Data Parsing",
+      "active": true
+    },
+    {
+      "id": "top-python-api-calls",
+      "skill_id": "skill-python",
+      "slug": "api-calls",
+      "name": "API Calls",
+      "active": true
+    },
+    {
+      "id": "top-python-performance",
+      "skill_id": "skill-python",
+      "slug": "performance",
+      "name": "Performance",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-arrays",
+      "skill_id": "skill-data-structures",
+      "slug": "arrays",
+      "name": "Arrays",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-linked-lists",
+      "skill_id": "skill-data-structures",
+      "slug": "linked-lists",
+      "name": "Linked Lists",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-stacks",
+      "skill_id": "skill-data-structures",
+      "slug": "stacks",
+      "name": "Stacks",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-queues",
+      "skill_id": "skill-data-structures",
+      "slug": "queues",
+      "name": "Queues",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-hash-maps",
+      "skill_id": "skill-data-structures",
+      "slug": "hash-maps",
+      "name": "Hash Maps",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-sets",
+      "skill_id": "skill-data-structures",
+      "slug": "sets",
+      "name": "Sets",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-trees",
+      "skill_id": "skill-data-structures",
+      "slug": "trees",
+      "name": "Trees",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-binary-search-trees",
+      "skill_id": "skill-data-structures",
+      "slug": "binary-search-trees",
+      "name": "Binary Search Trees",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-heaps",
+      "skill_id": "skill-data-structures",
+      "slug": "heaps",
+      "name": "Heaps",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-graphs",
+      "skill_id": "skill-data-structures",
+      "slug": "graphs",
+      "name": "Graphs",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-tries",
+      "skill_id": "skill-data-structures",
+      "slug": "tries",
+      "name": "Tries",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-strings",
+      "skill_id": "skill-data-structures",
+      "slug": "strings",
+      "name": "Strings",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-matrices",
+      "skill_id": "skill-data-structures",
+      "slug": "matrices",
+      "name": "Matrices",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-sliding-window",
+      "skill_id": "skill-data-structures",
+      "slug": "sliding-window",
+      "name": "Sliding Window",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-two-pointers",
+      "skill_id": "skill-data-structures",
+      "slug": "two-pointers",
+      "name": "Two Pointers",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-recursion",
+      "skill_id": "skill-data-structures",
+      "slug": "recursion",
+      "name": "Recursion",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-space-complexity",
+      "skill_id": "skill-data-structures",
+      "slug": "space-complexity",
+      "name": "Space Complexity",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-time-complexity",
+      "skill_id": "skill-data-structures",
+      "slug": "time-complexity",
+      "name": "Time Complexity",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-edge-cases",
+      "skill_id": "skill-data-structures",
+      "slug": "edge-cases",
+      "name": "Edge Cases",
+      "active": true
+    },
+    {
+      "id": "top-data-structures-choosing-the-right-structure",
+      "skill_id": "skill-data-structures",
+      "slug": "choosing-the-right-structure",
+      "name": "Choosing The Right Structure",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-sorting",
+      "skill_id": "skill-algorithms",
+      "slug": "sorting",
+      "name": "Sorting",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-searching",
+      "skill_id": "skill-algorithms",
+      "slug": "searching",
+      "name": "Searching",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-binary-search",
+      "skill_id": "skill-algorithms",
+      "slug": "binary-search",
+      "name": "Binary Search",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-recursion",
+      "skill_id": "skill-algorithms",
+      "slug": "recursion",
+      "name": "Recursion",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-dynamic-programming",
+      "skill_id": "skill-algorithms",
+      "slug": "dynamic-programming",
+      "name": "Dynamic Programming",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-greedy-algorithms",
+      "skill_id": "skill-algorithms",
+      "slug": "greedy-algorithms",
+      "name": "Greedy Algorithms",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-backtracking",
+      "skill_id": "skill-algorithms",
+      "slug": "backtracking",
+      "name": "Backtracking",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-graph-traversal",
+      "skill_id": "skill-algorithms",
+      "slug": "graph-traversal",
+      "name": "Graph Traversal",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-bfs",
+      "skill_id": "skill-algorithms",
+      "slug": "bfs",
+      "name": "Bfs",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-dfs",
+      "skill_id": "skill-algorithms",
+      "slug": "dfs",
+      "name": "Dfs",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-shortest-path",
+      "skill_id": "skill-algorithms",
+      "slug": "shortest-path",
+      "name": "Shortest Path",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-divide-and-conquer",
+      "skill_id": "skill-algorithms",
+      "slug": "divide-and-conquer",
+      "name": "Divide And Conquer",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-prefix-sums",
+      "skill_id": "skill-algorithms",
+      "slug": "prefix-sums",
+      "name": "Prefix Sums",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-sliding-window",
+      "skill_id": "skill-algorithms",
+      "slug": "sliding-window",
+      "name": "Sliding Window",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-two-pointers",
+      "skill_id": "skill-algorithms",
+      "slug": "two-pointers",
+      "name": "Two Pointers",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-complexity-analysis",
+      "skill_id": "skill-algorithms",
+      "slug": "complexity-analysis",
+      "name": "Complexity Analysis",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-memoization",
+      "skill_id": "skill-algorithms",
+      "slug": "memoization",
+      "name": "Memoization",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-topological-sort",
+      "skill_id": "skill-algorithms",
+      "slug": "topological-sort",
+      "name": "Topological Sort",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-edge-cases",
+      "skill_id": "skill-algorithms",
+      "slug": "edge-cases",
+      "name": "Edge Cases",
+      "active": true
+    },
+    {
+      "id": "top-algorithms-optimization",
+      "skill_id": "skill-algorithms",
+      "slug": "optimization",
+      "name": "Optimization",
+      "active": true
+    },
+    {
+      "id": "top-react-js-components",
+      "skill_id": "skill-react-js",
+      "slug": "components",
+      "name": "Components",
+      "active": true
+    },
+    {
+      "id": "top-react-js-props",
+      "skill_id": "skill-react-js",
+      "slug": "props",
+      "name": "Props",
+      "active": true
+    },
+    {
+      "id": "top-react-js-state",
+      "skill_id": "skill-react-js",
+      "slug": "state",
+      "name": "State",
+      "active": true
+    },
+    {
+      "id": "top-react-js-hooks",
+      "skill_id": "skill-react-js",
+      "slug": "hooks",
+      "name": "Hooks",
+      "active": true
+    },
+    {
+      "id": "top-react-js-useeffect",
+      "skill_id": "skill-react-js",
+      "slug": "useeffect",
+      "name": "Useeffect",
+      "active": true
+    },
+    {
+      "id": "top-react-js-usememo",
+      "skill_id": "skill-react-js",
+      "slug": "usememo",
+      "name": "Usememo",
+      "active": true
+    },
+    {
+      "id": "top-react-js-usecallback",
+      "skill_id": "skill-react-js",
+      "slug": "usecallback",
+      "name": "Usecallback",
+      "active": true
+    },
+    {
+      "id": "top-react-js-forms",
+      "skill_id": "skill-react-js",
+      "slug": "forms",
+      "name": "Forms",
+      "active": true
+    },
+    {
+      "id": "top-react-js-controlled-components",
+      "skill_id": "skill-react-js",
+      "slug": "controlled-components",
+      "name": "Controlled Components",
+      "active": true
+    },
+    {
+      "id": "top-react-js-rendering",
+      "skill_id": "skill-react-js",
+      "slug": "rendering",
+      "name": "Rendering",
+      "active": true
+    },
+    {
+      "id": "top-react-js-keys",
+      "skill_id": "skill-react-js",
+      "slug": "keys",
+      "name": "Keys",
+      "active": true
+    },
+    {
+      "id": "top-react-js-conditional-rendering",
+      "skill_id": "skill-react-js",
+      "slug": "conditional-rendering",
+      "name": "Conditional Rendering",
+      "active": true
+    },
+    {
+      "id": "top-react-js-custom-hooks",
+      "skill_id": "skill-react-js",
+      "slug": "custom-hooks",
+      "name": "Custom Hooks",
+      "active": true
+    },
+    {
+      "id": "top-react-js-context",
+      "skill_id": "skill-react-js",
+      "slug": "context",
+      "name": "Context",
+      "active": true
+    },
+    {
+      "id": "top-react-js-error-boundaries",
+      "skill_id": "skill-react-js",
+      "slug": "error-boundaries",
+      "name": "Error Boundaries",
+      "active": true
+    },
+    {
+      "id": "top-react-js-routing",
+      "skill_id": "skill-react-js",
+      "slug": "routing",
+      "name": "Routing",
+      "active": true
+    },
+    {
+      "id": "top-react-js-api-calls",
+      "skill_id": "skill-react-js",
+      "slug": "api-calls",
+      "name": "API Calls",
+      "active": true
+    },
+    {
+      "id": "top-react-js-performance",
+      "skill_id": "skill-react-js",
+      "slug": "performance",
+      "name": "Performance",
+      "active": true
+    },
+    {
+      "id": "top-react-js-testing",
+      "skill_id": "skill-react-js",
+      "slug": "testing",
+      "name": "Testing",
+      "active": true
+    },
+    {
+      "id": "top-react-js-component-design",
+      "skill_id": "skill-react-js",
+      "slug": "component-design",
+      "name": "Component Design",
+      "active": true
+    },
+    {
+      "id": "top-state-management-local-state",
+      "skill_id": "skill-state-management",
+      "slug": "local-state",
+      "name": "Local State",
+      "active": true
+    },
+    {
+      "id": "top-state-management-global-state",
+      "skill_id": "skill-state-management",
+      "slug": "global-state",
+      "name": "Global State",
+      "active": true
+    },
+    {
+      "id": "top-state-management-prop-drilling",
+      "skill_id": "skill-state-management",
+      "slug": "prop-drilling",
+      "name": "Prop Drilling",
+      "active": true
+    },
+    {
+      "id": "top-state-management-context-api",
+      "skill_id": "skill-state-management",
+      "slug": "context-api",
+      "name": "Context API",
+      "active": true
+    },
+    {
+      "id": "top-state-management-redux",
+      "skill_id": "skill-state-management",
+      "slug": "redux",
+      "name": "Redux",
+      "active": true
+    },
+    {
+      "id": "top-state-management-reducers",
+      "skill_id": "skill-state-management",
+      "slug": "reducers",
+      "name": "Reducers",
+      "active": true
+    },
+    {
+      "id": "top-state-management-actions",
+      "skill_id": "skill-state-management",
+      "slug": "actions",
+      "name": "Actions",
+      "active": true
+    },
+    {
+      "id": "top-state-management-selectors",
+      "skill_id": "skill-state-management",
+      "slug": "selectors",
+      "name": "Selectors",
+      "active": true
+    },
+    {
+      "id": "top-state-management-middleware",
+      "skill_id": "skill-state-management",
+      "slug": "middleware",
+      "name": "Middleware",
+      "active": true
+    },
+    {
+      "id": "top-state-management-server-state",
+      "skill_id": "skill-state-management",
+      "slug": "server-state",
+      "name": "Server State",
+      "active": true
+    },
+    {
+      "id": "top-state-management-cache-invalidation",
+      "skill_id": "skill-state-management",
+      "slug": "cache-invalidation",
+      "name": "Cache Invalidation",
+      "active": true
+    },
+    {
+      "id": "top-state-management-optimistic-updates",
+      "skill_id": "skill-state-management",
+      "slug": "optimistic-updates",
+      "name": "Optimistic Updates",
+      "active": true
+    },
+    {
+      "id": "top-state-management-normalization",
+      "skill_id": "skill-state-management",
+      "slug": "normalization",
+      "name": "Normalization",
+      "active": true
+    },
+    {
+      "id": "top-state-management-immutability",
+      "skill_id": "skill-state-management",
+      "slug": "immutability",
+      "name": "Immutability",
+      "active": true
+    },
+    {
+      "id": "top-state-management-state-persistence",
+      "skill_id": "skill-state-management",
+      "slug": "state-persistence",
+      "name": "State Persistence",
+      "active": true
+    },
+    {
+      "id": "top-state-management-derived-state",
+      "skill_id": "skill-state-management",
+      "slug": "derived-state",
+      "name": "Derived State",
+      "active": true
+    },
+    {
+      "id": "top-state-management-race-conditions",
+      "skill_id": "skill-state-management",
+      "slug": "race-conditions",
+      "name": "Race Conditions",
+      "active": true
+    },
+    {
+      "id": "top-state-management-debugging",
+      "skill_id": "skill-state-management",
+      "slug": "debugging",
+      "name": "Debugging",
+      "active": true
+    },
+    {
+      "id": "top-state-management-performance",
+      "skill_id": "skill-state-management",
+      "slug": "performance",
+      "name": "Performance",
+      "active": true
+    },
+    {
+      "id": "top-state-management-state-architecture",
+      "skill_id": "skill-state-management",
+      "slug": "state-architecture",
+      "name": "State Architecture",
+      "active": true
+    },
+    {
+      "id": "top-sql-select-queries",
+      "skill_id": "skill-sql",
+      "slug": "select-queries",
+      "name": "Select Queries",
+      "active": true
+    },
+    {
+      "id": "top-sql-where-filters",
+      "skill_id": "skill-sql",
+      "slug": "where-filters",
+      "name": "Where Filters",
+      "active": true
+    },
+    {
+      "id": "top-sql-group-by",
+      "skill_id": "skill-sql",
+      "slug": "group-by",
+      "name": "Group By",
+      "active": true
+    },
+    {
+      "id": "top-sql-having",
+      "skill_id": "skill-sql",
+      "slug": "having",
+      "name": "Having",
+      "active": true
+    },
+    {
+      "id": "top-sql-inner-join",
+      "skill_id": "skill-sql",
+      "slug": "inner-join",
+      "name": "Inner Join",
+      "active": true
+    },
+    {
+      "id": "top-sql-left-join",
+      "skill_id": "skill-sql",
+      "slug": "left-join",
+      "name": "Left Join",
+      "active": true
+    },
+    {
+      "id": "top-sql-right-join",
+      "skill_id": "skill-sql",
+      "slug": "right-join",
+      "name": "Right Join",
+      "active": true
+    },
+    {
+      "id": "top-sql-full-join",
+      "skill_id": "skill-sql",
+      "slug": "full-join",
+      "name": "Full Join",
+      "active": true
+    },
+    {
+      "id": "top-sql-subqueries",
+      "skill_id": "skill-sql",
+      "slug": "subqueries",
+      "name": "Subqueries",
+      "active": true
+    },
+    {
+      "id": "top-sql-ctes",
+      "skill_id": "skill-sql",
+      "slug": "ctes",
+      "name": "Ctes",
+      "active": true
+    },
+    {
+      "id": "top-sql-aggregations",
+      "skill_id": "skill-sql",
+      "slug": "aggregations",
+      "name": "Aggregations",
+      "active": true
+    },
+    {
+      "id": "top-sql-window-functions",
+      "skill_id": "skill-sql",
+      "slug": "window-functions",
+      "name": "Window Functions",
+      "active": true
+    },
+    {
+      "id": "top-sql-transactions",
+      "skill_id": "skill-sql",
+      "slug": "transactions",
+      "name": "Transactions",
+      "active": true
+    },
+    {
+      "id": "top-sql-constraints",
+      "skill_id": "skill-sql",
+      "slug": "constraints",
+      "name": "Constraints",
+      "active": true
+    },
+    {
+      "id": "top-sql-normalization",
+      "skill_id": "skill-sql",
+      "slug": "normalization",
+      "name": "Normalization",
+      "active": true
+    },
+    {
+      "id": "top-sql-indexes",
+      "skill_id": "skill-sql",
+      "slug": "indexes",
+      "name": "Indexes",
+      "active": true
+    },
+    {
+      "id": "top-sql-query-plans",
+      "skill_id": "skill-sql",
+      "slug": "query-plans",
+      "name": "Query Plans",
+      "active": true
+    },
+    {
+      "id": "top-sql-pagination",
+      "skill_id": "skill-sql",
+      "slug": "pagination",
+      "name": "Pagination",
+      "active": true
+    },
+    {
+      "id": "top-sql-duplicate-handling",
+      "skill_id": "skill-sql",
+      "slug": "duplicate-handling",
+      "name": "Duplicate Handling",
+      "active": true
+    },
+    {
+      "id": "top-sql-data-integrity",
+      "skill_id": "skill-sql",
+      "slug": "data-integrity",
+      "name": "Data Integrity",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-single-column-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "single-column-indexes",
+      "name": "Single Column Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-composite-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "composite-indexes",
+      "name": "Composite Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-unique-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "unique-indexes",
+      "name": "Unique Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-covering-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "covering-indexes",
+      "name": "Covering Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-b-tree-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "b-tree-indexes",
+      "name": "B Tree Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-hash-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "hash-indexes",
+      "name": "Hash Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-partial-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "partial-indexes",
+      "name": "Partial Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-index-selectivity",
+      "skill_id": "skill-database-indexing",
+      "slug": "index-selectivity",
+      "name": "Index Selectivity",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-cardinality",
+      "skill_id": "skill-database-indexing",
+      "slug": "cardinality",
+      "name": "Cardinality",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-explain-plans",
+      "skill_id": "skill-database-indexing",
+      "slug": "explain-plans",
+      "name": "Explain Plans",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-slow-queries",
+      "skill_id": "skill-database-indexing",
+      "slug": "slow-queries",
+      "name": "Slow Queries",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-write-overhead",
+      "skill_id": "skill-database-indexing",
+      "slug": "write-overhead",
+      "name": "Write Overhead",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-foreign-key-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "foreign-key-indexes",
+      "name": "Foreign Key Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-pagination-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "pagination-indexes",
+      "name": "Pagination Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-sorting-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "sorting-indexes",
+      "name": "Sorting Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-range-queries",
+      "skill_id": "skill-database-indexing",
+      "slug": "range-queries",
+      "name": "Range Queries",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-index-maintenance",
+      "skill_id": "skill-database-indexing",
+      "slug": "index-maintenance",
+      "name": "Index Maintenance",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-duplicate-indexes",
+      "skill_id": "skill-database-indexing",
+      "slug": "duplicate-indexes",
+      "name": "Duplicate Indexes",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-index-misuse",
+      "skill_id": "skill-database-indexing",
+      "slug": "index-misuse",
+      "name": "Index Misuse",
+      "active": true
+    },
+    {
+      "id": "top-database-indexing-performance-tuning",
+      "skill_id": "skill-database-indexing",
+      "slug": "performance-tuning",
+      "name": "Performance Tuning",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-rest-principles",
+      "skill_id": "skill-backend-apis",
+      "slug": "rest-principles",
+      "name": "Rest Principles",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-http-methods",
+      "skill_id": "skill-backend-apis",
+      "slug": "http-methods",
+      "name": "Http Methods",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-status-codes",
+      "skill_id": "skill-backend-apis",
+      "slug": "status-codes",
+      "name": "Status Codes",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-request-validation",
+      "skill_id": "skill-backend-apis",
+      "slug": "request-validation",
+      "name": "Request Validation",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-authentication",
+      "skill_id": "skill-backend-apis",
+      "slug": "authentication",
+      "name": "Authentication",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-authorization",
+      "skill_id": "skill-backend-apis",
+      "slug": "authorization",
+      "name": "Authorization",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-jwt",
+      "skill_id": "skill-backend-apis",
+      "slug": "jwt",
+      "name": "JWT",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-pagination",
+      "skill_id": "skill-backend-apis",
+      "slug": "pagination",
+      "name": "Pagination",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-filtering",
+      "skill_id": "skill-backend-apis",
+      "slug": "filtering",
+      "name": "Filtering",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-error-handling",
+      "skill_id": "skill-backend-apis",
+      "slug": "error-handling",
+      "name": "Error Handling",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-rate-limiting",
+      "skill_id": "skill-backend-apis",
+      "slug": "rate-limiting",
+      "name": "Rate Limiting",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-idempotency",
+      "skill_id": "skill-backend-apis",
+      "slug": "idempotency",
+      "name": "Idempotency",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-versioning",
+      "skill_id": "skill-backend-apis",
+      "slug": "versioning",
+      "name": "Versioning",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-logging",
+      "skill_id": "skill-backend-apis",
+      "slug": "logging",
+      "name": "Logging",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-dtos",
+      "skill_id": "skill-backend-apis",
+      "slug": "dtos",
+      "name": "Dtos",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-middleware",
+      "skill_id": "skill-backend-apis",
+      "slug": "middleware",
+      "name": "Middleware",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-file-uploads",
+      "skill_id": "skill-backend-apis",
+      "slug": "file-uploads",
+      "name": "File Uploads",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-webhooks",
+      "skill_id": "skill-backend-apis",
+      "slug": "webhooks",
+      "name": "Webhooks",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-api-security",
+      "skill_id": "skill-backend-apis",
+      "slug": "api-security",
+      "name": "API Security",
+      "active": true
+    },
+    {
+      "id": "top-backend-apis-api-documentation",
+      "skill_id": "skill-backend-apis",
+      "slug": "api-documentation",
+      "name": "API Documentation",
+      "active": true
+    },
+    {
+      "id": "top-system-design-requirements-gathering",
+      "skill_id": "skill-system-design",
+      "slug": "requirements-gathering",
+      "name": "Requirements Gathering",
+      "active": true
+    },
+    {
+      "id": "top-system-design-load-estimation",
+      "skill_id": "skill-system-design",
+      "slug": "load-estimation",
+      "name": "Load Estimation",
+      "active": true
+    },
+    {
+      "id": "top-system-design-database-choice",
+      "skill_id": "skill-system-design",
+      "slug": "database-choice",
+      "name": "Database Choice",
+      "active": true
+    },
+    {
+      "id": "top-system-design-caching",
+      "skill_id": "skill-system-design",
+      "slug": "caching",
+      "name": "Caching",
+      "active": true
+    },
+    {
+      "id": "top-system-design-load-balancing",
+      "skill_id": "skill-system-design",
+      "slug": "load-balancing",
+      "name": "Load Balancing",
+      "active": true
+    },
+    {
+      "id": "top-system-design-horizontal-scaling",
+      "skill_id": "skill-system-design",
+      "slug": "horizontal-scaling",
+      "name": "Horizontal Scaling",
+      "active": true
+    },
+    {
+      "id": "top-system-design-queues",
+      "skill_id": "skill-system-design",
+      "slug": "queues",
+      "name": "Queues",
+      "active": true
+    },
+    {
+      "id": "top-system-design-microservices",
+      "skill_id": "skill-system-design",
+      "slug": "microservices",
+      "name": "Microservices",
+      "active": true
+    },
+    {
+      "id": "top-system-design-monoliths",
+      "skill_id": "skill-system-design",
+      "slug": "monoliths",
+      "name": "Monoliths",
+      "active": true
+    },
+    {
+      "id": "top-system-design-sharding",
+      "skill_id": "skill-system-design",
+      "slug": "sharding",
+      "name": "Sharding",
+      "active": true
+    },
+    {
+      "id": "top-system-design-replication",
+      "skill_id": "skill-system-design",
+      "slug": "replication",
+      "name": "Replication",
+      "active": true
+    },
+    {
+      "id": "top-system-design-cdn",
+      "skill_id": "skill-system-design",
+      "slug": "cdn",
+      "name": "Cdn",
+      "active": true
+    },
+    {
+      "id": "top-system-design-object-storage",
+      "skill_id": "skill-system-design",
+      "slug": "object-storage",
+      "name": "Object Storage",
+      "active": true
+    },
+    {
+      "id": "top-system-design-rate-limiting",
+      "skill_id": "skill-system-design",
+      "slug": "rate-limiting",
+      "name": "Rate Limiting",
+      "active": true
+    },
+    {
+      "id": "top-system-design-fault-tolerance",
+      "skill_id": "skill-system-design",
+      "slug": "fault-tolerance",
+      "name": "Fault Tolerance",
+      "active": true
+    },
+    {
+      "id": "top-system-design-observability",
+      "skill_id": "skill-system-design",
+      "slug": "observability",
+      "name": "Observability",
+      "active": true
+    },
+    {
+      "id": "top-system-design-consistency",
+      "skill_id": "skill-system-design",
+      "slug": "consistency",
+      "name": "Consistency",
+      "active": true
+    },
+    {
+      "id": "top-system-design-availability",
+      "skill_id": "skill-system-design",
+      "slug": "availability",
+      "name": "Availability",
+      "active": true
+    },
+    {
+      "id": "top-system-design-bottlenecks",
+      "skill_id": "skill-system-design",
+      "slug": "bottlenecks",
+      "name": "Bottlenecks",
+      "active": true
+    },
+    {
+      "id": "top-system-design-trade-offs",
+      "skill_id": "skill-system-design",
+      "slug": "trade-offs",
+      "name": "Trade Offs",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-event-loop",
+      "skill_id": "skill-nodejs",
+      "slug": "event-loop",
+      "name": "Event Loop",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-non-blocking-i-o",
+      "skill_id": "skill-nodejs",
+      "slug": "non-blocking-i-o",
+      "name": "Non Blocking I O",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-callbacks",
+      "skill_id": "skill-nodejs",
+      "slug": "callbacks",
+      "name": "Callbacks",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-promises",
+      "skill_id": "skill-nodejs",
+      "slug": "promises",
+      "name": "Promises",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-async-await",
+      "skill_id": "skill-nodejs",
+      "slug": "async-await",
+      "name": "Async Await",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-express-middleware",
+      "skill_id": "skill-nodejs",
+      "slug": "express-middleware",
+      "name": "Express Middleware",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-routing",
+      "skill_id": "skill-nodejs",
+      "slug": "routing",
+      "name": "Routing",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-error-handling",
+      "skill_id": "skill-nodejs",
+      "slug": "error-handling",
+      "name": "Error Handling",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-streams",
+      "skill_id": "skill-nodejs",
+      "slug": "streams",
+      "name": "Streams",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-buffers",
+      "skill_id": "skill-nodejs",
+      "slug": "buffers",
+      "name": "Buffers",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-file-system",
+      "skill_id": "skill-nodejs",
+      "slug": "file-system",
+      "name": "File System",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-environment-variables",
+      "skill_id": "skill-nodejs",
+      "slug": "environment-variables",
+      "name": "Environment Variables",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-package-management",
+      "skill_id": "skill-nodejs",
+      "slug": "package-management",
+      "name": "Package Management",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-security",
+      "skill_id": "skill-nodejs",
+      "slug": "security",
+      "name": "Security",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-authentication",
+      "skill_id": "skill-nodejs",
+      "slug": "authentication",
+      "name": "Authentication",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-database-access",
+      "skill_id": "skill-nodejs",
+      "slug": "database-access",
+      "name": "Database Access",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-logging",
+      "skill_id": "skill-nodejs",
+      "slug": "logging",
+      "name": "Logging",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-testing",
+      "skill_id": "skill-nodejs",
+      "slug": "testing",
+      "name": "Testing",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-performance",
+      "skill_id": "skill-nodejs",
+      "slug": "performance",
+      "name": "Performance",
+      "active": true
+    },
+    {
+      "id": "top-nodejs-deployment",
+      "skill_id": "skill-nodejs",
+      "slug": "deployment",
+      "name": "Deployment",
+      "active": true
+    },
+    {
+      "id": "top-oop-classes",
+      "skill_id": "skill-oop",
+      "slug": "classes",
+      "name": "Classes",
+      "active": true
+    },
+    {
+      "id": "top-oop-objects",
+      "skill_id": "skill-oop",
+      "slug": "objects",
+      "name": "Objects",
+      "active": true
+    },
+    {
+      "id": "top-oop-encapsulation",
+      "skill_id": "skill-oop",
+      "slug": "encapsulation",
+      "name": "Encapsulation",
+      "active": true
+    },
+    {
+      "id": "top-oop-inheritance",
+      "skill_id": "skill-oop",
+      "slug": "inheritance",
+      "name": "Inheritance",
+      "active": true
+    },
+    {
+      "id": "top-oop-polymorphism",
+      "skill_id": "skill-oop",
+      "slug": "polymorphism",
+      "name": "Polymorphism",
+      "active": true
+    },
+    {
+      "id": "top-oop-abstraction",
+      "skill_id": "skill-oop",
+      "slug": "abstraction",
+      "name": "Abstraction",
+      "active": true
+    },
+    {
+      "id": "top-oop-interfaces",
+      "skill_id": "skill-oop",
+      "slug": "interfaces",
+      "name": "Interfaces",
+      "active": true
+    },
+    {
+      "id": "top-oop-composition",
+      "skill_id": "skill-oop",
+      "slug": "composition",
+      "name": "Composition",
+      "active": true
+    },
+    {
+      "id": "top-oop-constructors",
+      "skill_id": "skill-oop",
+      "slug": "constructors",
+      "name": "Constructors",
+      "active": true
+    },
+    {
+      "id": "top-oop-method-overriding",
+      "skill_id": "skill-oop",
+      "slug": "method-overriding",
+      "name": "Method Overriding",
+      "active": true
+    },
+    {
+      "id": "top-oop-access-modifiers",
+      "skill_id": "skill-oop",
+      "slug": "access-modifiers",
+      "name": "Access Modifiers",
+      "active": true
+    },
+    {
+      "id": "top-oop-solid-principles",
+      "skill_id": "skill-oop",
+      "slug": "solid-principles",
+      "name": "Solid Principles",
+      "active": true
+    },
+    {
+      "id": "top-oop-dependency-injection",
+      "skill_id": "skill-oop",
+      "slug": "dependency-injection",
+      "name": "Dependency Injection",
+      "active": true
+    },
+    {
+      "id": "top-oop-design-patterns",
+      "skill_id": "skill-oop",
+      "slug": "design-patterns",
+      "name": "Design Patterns",
+      "active": true
+    },
+    {
+      "id": "top-oop-coupling",
+      "skill_id": "skill-oop",
+      "slug": "coupling",
+      "name": "Coupling",
+      "active": true
+    },
+    {
+      "id": "top-oop-cohesion",
+      "skill_id": "skill-oop",
+      "slug": "cohesion",
+      "name": "Cohesion",
+      "active": true
+    },
+    {
+      "id": "top-oop-object-modeling",
+      "skill_id": "skill-oop",
+      "slug": "object-modeling",
+      "name": "Object Modeling",
+      "active": true
+    },
+    {
+      "id": "top-oop-testing-oop-code",
+      "skill_id": "skill-oop",
+      "slug": "testing-oop-code",
+      "name": "Testing OOP Code",
+      "active": true
+    },
+    {
+      "id": "top-oop-anti-patterns",
+      "skill_id": "skill-oop",
+      "slug": "anti-patterns",
+      "name": "Anti Patterns",
+      "active": true
+    },
+    {
+      "id": "top-oop-refactoring",
+      "skill_id": "skill-oop",
+      "slug": "refactoring",
+      "name": "Refactoring",
+      "active": true
+    },
+    {
+      "id": "top-git-github-repositories",
+      "skill_id": "skill-git-github",
+      "slug": "repositories",
+      "name": "Repositories",
+      "active": true
+    },
+    {
+      "id": "top-git-github-commits",
+      "skill_id": "skill-git-github",
+      "slug": "commits",
+      "name": "Commits",
+      "active": true
+    },
+    {
+      "id": "top-git-github-branches",
+      "skill_id": "skill-git-github",
+      "slug": "branches",
+      "name": "Branches",
+      "active": true
+    },
+    {
+      "id": "top-git-github-merge",
+      "skill_id": "skill-git-github",
+      "slug": "merge",
+      "name": "Merge",
+      "active": true
+    },
+    {
+      "id": "top-git-github-rebase",
+      "skill_id": "skill-git-github",
+      "slug": "rebase",
+      "name": "Rebase",
+      "active": true
+    },
+    {
+      "id": "top-git-github-pull-requests",
+      "skill_id": "skill-git-github",
+      "slug": "pull-requests",
+      "name": "Pull Requests",
+      "active": true
+    },
+    {
+      "id": "top-git-github-code-review",
+      "skill_id": "skill-git-github",
+      "slug": "code-review",
+      "name": "Code Review",
+      "active": true
+    },
+    {
+      "id": "top-git-github-merge-conflicts",
+      "skill_id": "skill-git-github",
+      "slug": "merge-conflicts",
+      "name": "Merge Conflicts",
+      "active": true
+    },
+    {
+      "id": "top-git-github-stashing",
+      "skill_id": "skill-git-github",
+      "slug": "stashing",
+      "name": "Stashing",
+      "active": true
+    },
+    {
+      "id": "top-git-github-tags",
+      "skill_id": "skill-git-github",
+      "slug": "tags",
+      "name": "Tags",
+      "active": true
+    },
+    {
+      "id": "top-git-github-git-log",
+      "skill_id": "skill-git-github",
+      "slug": "git-log",
+      "name": "Git Log",
+      "active": true
+    },
+    {
+      "id": "top-git-github-reset",
+      "skill_id": "skill-git-github",
+      "slug": "reset",
+      "name": "Reset",
+      "active": true
+    },
+    {
+      "id": "top-git-github-revert",
+      "skill_id": "skill-git-github",
+      "slug": "revert",
+      "name": "Revert",
+      "active": true
+    },
+    {
+      "id": "top-git-github-cherry-pick",
+      "skill_id": "skill-git-github",
+      "slug": "cherry-pick",
+      "name": "Cherry Pick",
+      "active": true
+    },
+    {
+      "id": "top-git-github-forking",
+      "skill_id": "skill-git-github",
+      "slug": "forking",
+      "name": "Forking",
+      "active": true
+    },
+    {
+      "id": "top-git-github-github-issues",
+      "skill_id": "skill-git-github",
+      "slug": "github-issues",
+      "name": "Github Issues",
+      "active": true
+    },
+    {
+      "id": "top-git-github-ci-checks",
+      "skill_id": "skill-git-github",
+      "slug": "ci-checks",
+      "name": "Ci Checks",
+      "active": true
+    },
+    {
+      "id": "top-git-github-branch-protection",
+      "skill_id": "skill-git-github",
+      "slug": "branch-protection",
+      "name": "Branch Protection",
+      "active": true
+    },
+    {
+      "id": "top-git-github-release-workflow",
+      "skill_id": "skill-git-github",
+      "slug": "release-workflow",
+      "name": "Release Workflow",
+      "active": true
+    },
+    {
+      "id": "top-git-github-collaboration",
+      "skill_id": "skill-git-github",
+      "slug": "collaboration",
+      "name": "Collaboration",
+      "active": true
+    },
+    {
+      "id": "top-testing-unit-testing",
+      "skill_id": "skill-testing",
+      "slug": "unit-testing",
+      "name": "Unit Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-integration-testing",
+      "skill_id": "skill-testing",
+      "slug": "integration-testing",
+      "name": "Integration Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-end-to-end-testing",
+      "skill_id": "skill-testing",
+      "slug": "end-to-end-testing",
+      "name": "End To End Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-test-cases",
+      "skill_id": "skill-testing",
+      "slug": "test-cases",
+      "name": "Test Cases",
+      "active": true
+    },
+    {
+      "id": "top-testing-assertions",
+      "skill_id": "skill-testing",
+      "slug": "assertions",
+      "name": "Assertions",
+      "active": true
+    },
+    {
+      "id": "top-testing-mocks",
+      "skill_id": "skill-testing",
+      "slug": "mocks",
+      "name": "Mocks",
+      "active": true
+    },
+    {
+      "id": "top-testing-stubs",
+      "skill_id": "skill-testing",
+      "slug": "stubs",
+      "name": "Stubs",
+      "active": true
+    },
+    {
+      "id": "top-testing-fixtures",
+      "skill_id": "skill-testing",
+      "slug": "fixtures",
+      "name": "Fixtures",
+      "active": true
+    },
+    {
+      "id": "top-testing-test-coverage",
+      "skill_id": "skill-testing",
+      "slug": "test-coverage",
+      "name": "Test Coverage",
+      "active": true
+    },
+    {
+      "id": "top-testing-tdd",
+      "skill_id": "skill-testing",
+      "slug": "tdd",
+      "name": "Tdd",
+      "active": true
+    },
+    {
+      "id": "top-testing-regression-testing",
+      "skill_id": "skill-testing",
+      "slug": "regression-testing",
+      "name": "Regression Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-api-testing",
+      "skill_id": "skill-testing",
+      "slug": "api-testing",
+      "name": "API Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-ui-testing",
+      "skill_id": "skill-testing",
+      "slug": "ui-testing",
+      "name": "Ui Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-database-testing",
+      "skill_id": "skill-testing",
+      "slug": "database-testing",
+      "name": "Database Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-edge-cases",
+      "skill_id": "skill-testing",
+      "slug": "edge-cases",
+      "name": "Edge Cases",
+      "active": true
+    },
+    {
+      "id": "top-testing-test-data",
+      "skill_id": "skill-testing",
+      "slug": "test-data",
+      "name": "Test Data",
+      "active": true
+    },
+    {
+      "id": "top-testing-ci-testing",
+      "skill_id": "skill-testing",
+      "slug": "ci-testing",
+      "name": "Ci Testing",
+      "active": true
+    },
+    {
+      "id": "top-testing-flaky-tests",
+      "skill_id": "skill-testing",
+      "slug": "flaky-tests",
+      "name": "Flaky Tests",
+      "active": true
+    },
+    {
+      "id": "top-testing-performance-tests",
+      "skill_id": "skill-testing",
+      "slug": "performance-tests",
+      "name": "Performance Tests",
+      "active": true
+    },
+    {
+      "id": "top-testing-test-strategy",
+      "skill_id": "skill-testing",
+      "slug": "test-strategy",
+      "name": "Test Strategy",
+      "active": true
+    },
+    {
+      "id": "top-debugging-logs",
+      "skill_id": "skill-debugging",
+      "slug": "logs",
+      "name": "Logs",
+      "active": true
+    },
+    {
+      "id": "top-debugging-breakpoints",
+      "skill_id": "skill-debugging",
+      "slug": "breakpoints",
+      "name": "Breakpoints",
+      "active": true
+    },
+    {
+      "id": "top-debugging-stack-traces",
+      "skill_id": "skill-debugging",
+      "slug": "stack-traces",
+      "name": "Stack Traces",
+      "active": true
+    },
+    {
+      "id": "top-debugging-reproduction-steps",
+      "skill_id": "skill-debugging",
+      "slug": "reproduction-steps",
+      "name": "Reproduction Steps",
+      "active": true
+    },
+    {
+      "id": "top-debugging-root-cause-analysis",
+      "skill_id": "skill-debugging",
+      "slug": "root-cause-analysis",
+      "name": "Root Cause Analysis",
+      "active": true
+    },
+    {
+      "id": "top-debugging-binary-search-debugging",
+      "skill_id": "skill-debugging",
+      "slug": "binary-search-debugging",
+      "name": "Binary Search Debugging",
+      "active": true
+    },
+    {
+      "id": "top-debugging-network-debugging",
+      "skill_id": "skill-debugging",
+      "slug": "network-debugging",
+      "name": "Network Debugging",
+      "active": true
+    },
+    {
+      "id": "top-debugging-database-debugging",
+      "skill_id": "skill-debugging",
+      "slug": "database-debugging",
+      "name": "Database Debugging",
+      "active": true
+    },
+    {
+      "id": "top-debugging-memory-leaks",
+      "skill_id": "skill-debugging",
+      "slug": "memory-leaks",
+      "name": "Memory Leaks",
+      "active": true
+    },
+    {
+      "id": "top-debugging-race-conditions",
+      "skill_id": "skill-debugging",
+      "slug": "race-conditions",
+      "name": "Race Conditions",
+      "active": true
+    },
+    {
+      "id": "top-debugging-frontend-debugging",
+      "skill_id": "skill-debugging",
+      "slug": "frontend-debugging",
+      "name": "Frontend Debugging",
+      "active": true
+    },
+    {
+      "id": "top-debugging-backend-debugging",
+      "skill_id": "skill-debugging",
+      "slug": "backend-debugging",
+      "name": "Backend Debugging",
+      "active": true
+    },
+    {
+      "id": "top-debugging-error-monitoring",
+      "skill_id": "skill-debugging",
+      "slug": "error-monitoring",
+      "name": "Error Monitoring",
+      "active": true
+    },
+    {
+      "id": "top-debugging-production-incidents",
+      "skill_id": "skill-debugging",
+      "slug": "production-incidents",
+      "name": "Production Incidents",
+      "active": true
+    },
+    {
+      "id": "top-debugging-hotfixes",
+      "skill_id": "skill-debugging",
+      "slug": "hotfixes",
+      "name": "Hotfixes",
+      "active": true
+    },
+    {
+      "id": "top-debugging-rollback",
+      "skill_id": "skill-debugging",
+      "slug": "rollback",
+      "name": "Rollback",
+      "active": true
+    },
+    {
+      "id": "top-debugging-observability",
+      "skill_id": "skill-debugging",
+      "slug": "observability",
+      "name": "Observability",
+      "active": true
+    },
+    {
+      "id": "top-debugging-profiling",
+      "skill_id": "skill-debugging",
+      "slug": "profiling",
+      "name": "Profiling",
+      "active": true
+    },
+    {
+      "id": "top-debugging-debugging-mindset",
+      "skill_id": "skill-debugging",
+      "slug": "debugging-mindset",
+      "name": "Debugging Mindset",
+      "active": true
+    },
+    {
+      "id": "top-debugging-communication",
+      "skill_id": "skill-debugging",
+      "slug": "communication",
+      "name": "Communication",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-compute",
+      "skill_id": "skill-cloud-basics",
+      "slug": "compute",
+      "name": "Compute",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-storage",
+      "skill_id": "skill-cloud-basics",
+      "slug": "storage",
+      "name": "Storage",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-databases",
+      "skill_id": "skill-cloud-basics",
+      "slug": "databases",
+      "name": "Databases",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-networking",
+      "skill_id": "skill-cloud-basics",
+      "slug": "networking",
+      "name": "Networking",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-load-balancers",
+      "skill_id": "skill-cloud-basics",
+      "slug": "load-balancers",
+      "name": "Load Balancers",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-autoscaling",
+      "skill_id": "skill-cloud-basics",
+      "slug": "autoscaling",
+      "name": "Autoscaling",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-serverless",
+      "skill_id": "skill-cloud-basics",
+      "slug": "serverless",
+      "name": "Serverless",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-containers",
+      "skill_id": "skill-cloud-basics",
+      "slug": "containers",
+      "name": "Containers",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-iam",
+      "skill_id": "skill-cloud-basics",
+      "slug": "iam",
+      "name": "Iam",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-regions",
+      "skill_id": "skill-cloud-basics",
+      "slug": "regions",
+      "name": "Regions",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-availability-zones",
+      "skill_id": "skill-cloud-basics",
+      "slug": "availability-zones",
+      "name": "Availability Zones",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-monitoring",
+      "skill_id": "skill-cloud-basics",
+      "slug": "monitoring",
+      "name": "Monitoring",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-logging",
+      "skill_id": "skill-cloud-basics",
+      "slug": "logging",
+      "name": "Logging",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-cdn",
+      "skill_id": "skill-cloud-basics",
+      "slug": "cdn",
+      "name": "Cdn",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-object-storage",
+      "skill_id": "skill-cloud-basics",
+      "slug": "object-storage",
+      "name": "Object Storage",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-managed-databases",
+      "skill_id": "skill-cloud-basics",
+      "slug": "managed-databases",
+      "name": "Managed Databases",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-secrets",
+      "skill_id": "skill-cloud-basics",
+      "slug": "secrets",
+      "name": "Secrets",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-cost-optimization",
+      "skill_id": "skill-cloud-basics",
+      "slug": "cost-optimization",
+      "name": "Cost Optimization",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-backups",
+      "skill_id": "skill-cloud-basics",
+      "slug": "backups",
+      "name": "Backups",
+      "active": true
+    },
+    {
+      "id": "top-cloud-basics-deployment",
+      "skill_id": "skill-cloud-basics",
+      "slug": "deployment",
+      "name": "Deployment",
+      "active": true
+    },
+    {
+      "id": "top-docker-containers",
+      "skill_id": "skill-docker",
+      "slug": "containers",
+      "name": "Containers",
+      "active": true
+    },
+    {
+      "id": "top-docker-images",
+      "skill_id": "skill-docker",
+      "slug": "images",
+      "name": "Images",
+      "active": true
+    },
+    {
+      "id": "top-docker-dockerfile",
+      "skill_id": "skill-docker",
+      "slug": "dockerfile",
+      "name": "Dockerfile",
+      "active": true
+    },
+    {
+      "id": "top-docker-layers",
+      "skill_id": "skill-docker",
+      "slug": "layers",
+      "name": "Layers",
+      "active": true
+    },
+    {
+      "id": "top-docker-volumes",
+      "skill_id": "skill-docker",
+      "slug": "volumes",
+      "name": "Volumes",
+      "active": true
+    },
+    {
+      "id": "top-docker-networks",
+      "skill_id": "skill-docker",
+      "slug": "networks",
+      "name": "Networks",
+      "active": true
+    },
+    {
+      "id": "top-docker-ports",
+      "skill_id": "skill-docker",
+      "slug": "ports",
+      "name": "Ports",
+      "active": true
+    },
+    {
+      "id": "top-docker-environment-variables",
+      "skill_id": "skill-docker",
+      "slug": "environment-variables",
+      "name": "Environment Variables",
+      "active": true
+    },
+    {
+      "id": "top-docker-docker-compose",
+      "skill_id": "skill-docker",
+      "slug": "docker-compose",
+      "name": "Docker Compose",
+      "active": true
+    },
+    {
+      "id": "top-docker-multi-stage-builds",
+      "skill_id": "skill-docker",
+      "slug": "multi-stage-builds",
+      "name": "Multi Stage Builds",
+      "active": true
+    },
+    {
+      "id": "top-docker-container-logs",
+      "skill_id": "skill-docker",
+      "slug": "container-logs",
+      "name": "Container Logs",
+      "active": true
+    },
+    {
+      "id": "top-docker-health-checks",
+      "skill_id": "skill-docker",
+      "slug": "health-checks",
+      "name": "Health Checks",
+      "active": true
+    },
+    {
+      "id": "top-docker-image-size",
+      "skill_id": "skill-docker",
+      "slug": "image-size",
+      "name": "Image Size",
+      "active": true
+    },
+    {
+      "id": "top-docker-security",
+      "skill_id": "skill-docker",
+      "slug": "security",
+      "name": "Security",
+      "active": true
+    },
+    {
+      "id": "top-docker-registry",
+      "skill_id": "skill-docker",
+      "slug": "registry",
+      "name": "Registry",
+      "active": true
+    },
+    {
+      "id": "top-docker-build-cache",
+      "skill_id": "skill-docker",
+      "slug": "build-cache",
+      "name": "Build Cache",
+      "active": true
+    },
+    {
+      "id": "top-docker-persistent-data",
+      "skill_id": "skill-docker",
+      "slug": "persistent-data",
+      "name": "Persistent Data",
+      "active": true
+    },
+    {
+      "id": "top-docker-local-development",
+      "skill_id": "skill-docker",
+      "slug": "local-development",
+      "name": "Local Development",
+      "active": true
+    },
+    {
+      "id": "top-docker-deployment",
+      "skill_id": "skill-docker",
+      "slug": "deployment",
+      "name": "Deployment",
+      "active": true
+    },
+    {
+      "id": "top-docker-debugging-containers",
+      "skill_id": "skill-docker",
+      "slug": "debugging-containers",
+      "name": "Debugging Containers",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-authentication",
+      "skill_id": "skill-security-basics",
+      "slug": "authentication",
+      "name": "Authentication",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-authorization",
+      "skill_id": "skill-security-basics",
+      "slug": "authorization",
+      "name": "Authorization",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-password-hashing",
+      "skill_id": "skill-security-basics",
+      "slug": "password-hashing",
+      "name": "Password Hashing",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-jwt",
+      "skill_id": "skill-security-basics",
+      "slug": "jwt",
+      "name": "JWT",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-sessions",
+      "skill_id": "skill-security-basics",
+      "slug": "sessions",
+      "name": "Sessions",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-input-validation",
+      "skill_id": "skill-security-basics",
+      "slug": "input-validation",
+      "name": "Input Validation",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-sql-injection",
+      "skill_id": "skill-security-basics",
+      "slug": "sql-injection",
+      "name": "Sql Injection",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-xss",
+      "skill_id": "skill-security-basics",
+      "slug": "xss",
+      "name": "Xss",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-csrf",
+      "skill_id": "skill-security-basics",
+      "slug": "csrf",
+      "name": "Csrf",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-cors",
+      "skill_id": "skill-security-basics",
+      "slug": "cors",
+      "name": "Cors",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-rate-limiting",
+      "skill_id": "skill-security-basics",
+      "slug": "rate-limiting",
+      "name": "Rate Limiting",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-secrets-management",
+      "skill_id": "skill-security-basics",
+      "slug": "secrets-management",
+      "name": "Secrets Management",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-https",
+      "skill_id": "skill-security-basics",
+      "slug": "https",
+      "name": "Https",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-least-privilege",
+      "skill_id": "skill-security-basics",
+      "slug": "least-privilege",
+      "name": "Least Privilege",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-file-upload-security",
+      "skill_id": "skill-security-basics",
+      "slug": "file-upload-security",
+      "name": "File Upload Security",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-dependency-security",
+      "skill_id": "skill-security-basics",
+      "slug": "dependency-security",
+      "name": "Dependency Security",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-logging-sensitive-data",
+      "skill_id": "skill-security-basics",
+      "slug": "logging-sensitive-data",
+      "name": "Logging Sensitive Data",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-owasp",
+      "skill_id": "skill-security-basics",
+      "slug": "owasp",
+      "name": "Owasp",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-token-expiry",
+      "skill_id": "skill-security-basics",
+      "slug": "token-expiry",
+      "name": "Token Expiry",
+      "active": true
+    },
+    {
+      "id": "top-security-basics-secure-error-handling",
+      "skill_id": "skill-security-basics",
+      "slug": "secure-error-handling",
+      "name": "Secure Error Handling",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-latency",
+      "skill_id": "skill-performance-optimization",
+      "slug": "latency",
+      "name": "Latency",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-throughput",
+      "skill_id": "skill-performance-optimization",
+      "slug": "throughput",
+      "name": "Throughput",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-caching",
+      "skill_id": "skill-performance-optimization",
+      "slug": "caching",
+      "name": "Caching",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-database-queries",
+      "skill_id": "skill-performance-optimization",
+      "slug": "database-queries",
+      "name": "Database Queries",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-indexing",
+      "skill_id": "skill-performance-optimization",
+      "slug": "indexing",
+      "name": "Indexing",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-pagination",
+      "skill_id": "skill-performance-optimization",
+      "slug": "pagination",
+      "name": "Pagination",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-lazy-loading",
+      "skill_id": "skill-performance-optimization",
+      "slug": "lazy-loading",
+      "name": "Lazy Loading",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-code-splitting",
+      "skill_id": "skill-performance-optimization",
+      "slug": "code-splitting",
+      "name": "Code Splitting",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-bundle-size",
+      "skill_id": "skill-performance-optimization",
+      "slug": "bundle-size",
+      "name": "Bundle Size",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-memory-usage",
+      "skill_id": "skill-performance-optimization",
+      "slug": "memory-usage",
+      "name": "Memory Usage",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-profiling",
+      "skill_id": "skill-performance-optimization",
+      "slug": "profiling",
+      "name": "Profiling",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-cdn",
+      "skill_id": "skill-performance-optimization",
+      "slug": "cdn",
+      "name": "Cdn",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-compression",
+      "skill_id": "skill-performance-optimization",
+      "slug": "compression",
+      "name": "Compression",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-async-processing",
+      "skill_id": "skill-performance-optimization",
+      "slug": "async-processing",
+      "name": "Async Processing",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-batching",
+      "skill_id": "skill-performance-optimization",
+      "slug": "batching",
+      "name": "Batching",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-debouncing",
+      "skill_id": "skill-performance-optimization",
+      "slug": "debouncing",
+      "name": "Debouncing",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-throttling",
+      "skill_id": "skill-performance-optimization",
+      "slug": "throttling",
+      "name": "Throttling",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-n-1-queries",
+      "skill_id": "skill-performance-optimization",
+      "slug": "n-1-queries",
+      "name": "N 1 Queries",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-load-testing",
+      "skill_id": "skill-performance-optimization",
+      "slug": "load-testing",
+      "name": "Load Testing",
+      "active": true
+    },
+    {
+      "id": "top-performance-optimization-performance-trade-offs",
+      "skill_id": "skill-performance-optimization",
+      "slug": "performance-trade-offs",
+      "name": "Performance Trade Offs",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-communication",
+      "skill_id": "skill-collaboration",
+      "slug": "communication",
+      "name": "Communication",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-code-reviews",
+      "skill_id": "skill-collaboration",
+      "slug": "code-reviews",
+      "name": "Code Reviews",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-task-ownership",
+      "skill_id": "skill-collaboration",
+      "slug": "task-ownership",
+      "name": "Task Ownership",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-estimation",
+      "skill_id": "skill-collaboration",
+      "slug": "estimation",
+      "name": "Estimation",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-standups",
+      "skill_id": "skill-collaboration",
+      "slug": "standups",
+      "name": "Standups",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-documentation",
+      "skill_id": "skill-collaboration",
+      "slug": "documentation",
+      "name": "Documentation",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-conflict-resolution",
+      "skill_id": "skill-collaboration",
+      "slug": "conflict-resolution",
+      "name": "Conflict Resolution",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-pair-programming",
+      "skill_id": "skill-collaboration",
+      "slug": "pair-programming",
+      "name": "Pair Programming",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-asking-for-help",
+      "skill_id": "skill-collaboration",
+      "slug": "asking-for-help",
+      "name": "Asking For Help",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-giving-feedback",
+      "skill_id": "skill-collaboration",
+      "slug": "giving-feedback",
+      "name": "Giving Feedback",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-receiving-feedback",
+      "skill_id": "skill-collaboration",
+      "slug": "receiving-feedback",
+      "name": "Receiving Feedback",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-handoffs",
+      "skill_id": "skill-collaboration",
+      "slug": "handoffs",
+      "name": "Handoffs",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-working-with-qa",
+      "skill_id": "skill-collaboration",
+      "slug": "working-with-qa",
+      "name": "Working With Qa",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-working-with-product",
+      "skill_id": "skill-collaboration",
+      "slug": "working-with-product",
+      "name": "Working With Product",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-remote-collaboration",
+      "skill_id": "skill-collaboration",
+      "slug": "remote-collaboration",
+      "name": "Remote Collaboration",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-incident-communication",
+      "skill_id": "skill-collaboration",
+      "slug": "incident-communication",
+      "name": "Incident Communication",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-mentoring",
+      "skill_id": "skill-collaboration",
+      "slug": "mentoring",
+      "name": "Mentoring",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-accountability",
+      "skill_id": "skill-collaboration",
+      "slug": "accountability",
+      "name": "Accountability",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-prioritization",
+      "skill_id": "skill-collaboration",
+      "slug": "prioritization",
+      "name": "Prioritization",
+      "active": true
+    },
+    {
+      "id": "top-collaboration-team-culture",
+      "skill_id": "skill-collaboration",
+      "slug": "team-culture",
+      "name": "Team Culture",
+      "active": true
+    }
+  ]
+}

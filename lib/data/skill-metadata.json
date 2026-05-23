@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "javascript",
+    "interview_focus": "closures, lexical scope, async/await, promises, event loop"
+  },
+  {
+    "slug": "python",
+    "interview_focus": "variables and types, functions, OOP, decorators, generators"
+  },
+  {
+    "slug": "data-structures",
+    "interview_focus": "arrays, linked lists, stacks, queues, hash maps"
+  },
+  {
+    "slug": "algorithms",
+    "interview_focus": "sorting, searching, binary search, recursion, dynamic programming"
+  },
+  {
+    "slug": "react-js",
+    "interview_focus": "components, props, state, hooks, useEffect"
+  },
+  {
+    "slug": "state-management",
+    "interview_focus": "local state, global state, prop drilling, Context API, Redux"
+  },
+  {
+    "slug": "sql",
+    "interview_focus": "SELECT queries, WHERE filters, GROUP BY, HAVING, INNER JOIN"
+  },
+  {
+    "slug": "database-indexing",
+    "interview_focus": "single-column indexes, composite indexes, unique indexes, covering indexes, B-tree indexes"
+  },
+  {
+    "slug": "backend-apis",
+    "interview_focus": "REST principles, HTTP methods, status codes, request validation, authentication"
+  },
+  {
+    "slug": "system-design",
+    "interview_focus": "requirements gathering, load estimation, database choice, caching, load balancing"
+  },
+  {
+    "slug": "nodejs",
+    "interview_focus": "event loop, non-blocking I/O, callbacks, promises, async/await"
+  },
+  {
+    "slug": "oop",
+    "interview_focus": "classes, objects, encapsulation, inheritance, polymorphism"
+  },
+  {
+    "slug": "git-github",
+    "interview_focus": "repositories, commits, branches, merge, rebase"
+  },
+  {
+    "slug": "testing",
+    "interview_focus": "unit testing, integration testing, end-to-end testing, test cases, assertions"
+  },
+  {
+    "slug": "debugging",
+    "interview_focus": "logs, breakpoints, stack traces, reproduction steps, root-cause analysis"
+  },
+  {
+    "slug": "cloud-basics",
+    "interview_focus": "compute, storage, databases, networking, load balancers"
+  },
+  {
+    "slug": "docker",
+    "interview_focus": "containers, images, Dockerfile, layers, volumes"
+  },
+  {
+    "slug": "security-basics",
+    "interview_focus": "authentication, authorization, password hashing, JWT, sessions"
+  },
+  {
+    "slug": "performance-optimization",
+    "interview_focus": "latency, throughput, caching, database queries, indexing"
+  },
+  {
+    "slug": "collaboration",
+    "interview_focus": "communication, code reviews, task ownership, estimation, standups"
+  }
+]

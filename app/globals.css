@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 33% 98%;
+    --foreground: 222 47% 11%;
+    --card: 40 30% 99%;
+    --card-foreground: 222 47% 11%;
+    --popover: 40 30% 99%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 222 47% 18%;
+    --primary-foreground: 40 33% 98%;
+    --secondary: 40 20% 94%;
+    --secondary-foreground: 222 47% 18%;
+    --muted: 40 18% 93%;
+    --muted-foreground: 222 20% 40%;
+    --accent: 38 70% 50%;
+    --accent-foreground: 222 47% 11%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 40 33% 98%;
+    --border: 40 15% 88%;
+    --input: 40 15% 88%;
+    --ring: 38 70% 45%;
+    --chart-1: 222 47% 18%;
+    --chart-2: 38 70% 50%;
+    --chart-3: 40 25% 70%;
+    --chart-4: 222 30% 35%;
+    --chart-5: 38 50% 65%;
+    --radius: 0.625rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display tracking-tight text-foreground;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@media print {
+  nav,
+  .print\:hidden {
+    display: none !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
